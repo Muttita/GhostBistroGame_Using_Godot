@@ -1,7 +1,3 @@
-ได้เลยค่ะ นี่คือส่วนที่เพิ่มเกี่ยวกับสตอรี่ที่ปรับให้ตรงกับคอนเซปต์ที่คุณบอกมา:
-
----
-
 # GameBistro_using_GODOT
 
 Welcome to **GameBistro_using_GODOT**! This is a quirky and fun game where you play as a ghost working as a server at a restaurant after death. The restaurant serves as a "final stop" before ascending to heaven. The ghost customers come to the restaurant to receive their final meal, which will bring them joy and peace before their journey to the afterlife.
